@@ -1,3 +1,28 @@
 page-home {
-
+    
 }
+ion-content{
+    background-image: url("../../assets/imgs/maxresdefault.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position-x: 1px;
+}
+
+ion-content h2{
+    text-align: center;
+    color: white;
+    font: italic;
+}
+
+ion-content footer{
+    background-color: gainsboro;
+    text-align: center;
+    color: white; 
+    height: 50px;
+    font-size: 20px;
+    bottom: 0%;
+    position: absolute;
+    width: 100%;
+}
+
+
